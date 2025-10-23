@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a passionate **Web Developer** with over **3 years of experience** in building modern, user-centric websites and WordPress solutions.
+I'm a passionate **Web Developer** with over **5 years of experience** in building modern, user-centric websites and WordPress solutions.
 I specialize in developing **custom WordPress plugins**, creating **Divi & Elementor-based layouts**, and integrating **dynamic features** with **HTML, CSS, and JavaScript**.
 
 -   🔭 Currently working at [AshTech.site](https://ashtech.site)
