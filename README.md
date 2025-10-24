@@ -68,26 +68,39 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Performance
 
-<p align="center">
-  <a href="https://github.com/saddamtkg">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=transparent&hide_border=true&text_color=999&icon_color=0A66C2" alt="Md Saddam Hossan's GitHub stats" />
-  </a>
-  <a href="https://github.com/saddamtkg">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&langs_count=8&cache_seconds=1800&theme=transparent&hide_border=true&text_color=999" alt="Top Languages" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saddamtkg&theme=algolia&no-bg=true&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
-</p>
+<a href="https://github.com/saddamtkg">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&border_radius=10&cache_seconds=1800"
+    alt="Md Saddam Hossan's GitHub Stats"
+    height="170" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saddamtkg&theme=transparent&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=999" alt="GitHub Streak Stats" />
-</p>
+<a href="https://github.com/saddamtkg">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=10&cache_seconds=1800"
+    alt="Top Languages"
+    height="170" />
+</a>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=saddamtkg&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+    width="100%" />
+</a>
+
+<a href="https://github.com/saddamtkg">
+  <img
+    src="https://streak-stats.demolab.com?user=saddamtkg&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727"
+    alt="GitHub Streak Stats"
+    width="100%" />
+</a>
+
+</div>
 
 ---
 
