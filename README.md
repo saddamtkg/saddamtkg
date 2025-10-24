@@ -45,7 +45,7 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 
 > Create and manage dynamic WordPress layouts visually.
 >
-> -   Drag-and-drop layout builder with shortcode output
+> -   Layout builder with shortcode output
 > -   Integrates seamlessly with ACF and any theme
 
 ---
@@ -55,7 +55,7 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 > A WordPress module for embedding videos with full control.
 >
 > -   Includes source selection, autoplay toggle, and display customization
-> -   Divi-compatible and shortcode-ready
+> -   Divi-compatible
 
 ---
 
