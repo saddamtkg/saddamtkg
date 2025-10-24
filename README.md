@@ -78,21 +78,21 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
     alt="Md Saddam Hossan's GitHub Stats"
     height="170" />
 </a>
-<br>
+
 <a href="https://github.com/saddamtkg">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=10&cache_seconds=1800"
     alt="Top Languages"
     height="170" />
 </a>
-<br>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img
     src="https://github-profile-trophy.vercel.app/?username=saddamtkg&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
     alt="GitHub Trophies"
     width="100%" />
 </a>
-<br>
+
 <a href="https://github.com/saddamtkg">
   <img
     src="https://streak-stats.demolab.com?user=saddamtkg&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727"
