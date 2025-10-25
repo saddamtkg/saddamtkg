@@ -13,7 +13,7 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 -   🌱 Constantly improving my expertise in **ACF**, **JavaScript**, and **plugin development**
 -   💡 Focused on innovation, usability, and pixel-perfect design
 -   📧 Reach me at: [saddamhossan.tkg@gmail.com](mailto:saddamhossan.tkg@gmail.com)
--   🌐 portfolio website: [Link here](https://saddamtkg.github.io/my-website/)
+-   🌐 portfolio website: [Md Saddam Hossan](https://saddamtkg.github.io/my-website/)
 ---
 
 ### 🧰 Tech Stack
