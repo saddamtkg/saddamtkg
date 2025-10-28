@@ -68,8 +68,57 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 
 ---
 
-### 🚀 GitHub Performance Overview
-<div align="center" style="margin-top: 20px;"> <a href="https://github.com/saddamtkg"> <img src="https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&custom_title=👨‍💻%20Md%20Saddam%20Hossan's%20GitHub%20Stats" alt="Md Saddam Hossan's GitHub Stats" height="170" style="border-radius: 12px; margin: 8px;" /> </a> <a href="https://github.com/saddamtkg"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&custom_title=📚%20Most%20Used%20Languages" alt="Top Languages" height="170" style="border-radius: 12px; margin: 8px;" /> </a> <br /> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=saddamtkg&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=-1" alt="GitHub Trophies" width="95%" style="margin: 16px 0; border-radius: 12px;" /> </a> <a href="https://github.com/saddamtkg"> <img src="https://streak-stats.demolab.com?user=saddamtkg&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&fire=FF8C00&currStreakNum=00BFFF&currStreakLabel=FF8C00" alt="GitHub Streak" width="95%" style="margin: 8px 0; border-radius: 12px;" /> </a> </div>
+### 📊 GitHub Performance Overview
+
+<div align="center" style="margin-top: 20px;">
+
+<!-- 🧠 GitHub Stats -->
+
+<a href="https://github.com/saddamtkg">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&custom_title=🚀%20Md%20Saddam%20Hossan's%20GitHub%20Stats&cache_seconds=7200"
+    alt="Md Saddam Hossan's GitHub Stats"
+    height="180"
+    onerror="this.src='https://dummyimage.com/600x180/1a1b27/ffffff&text=GitHub+Stats+Unavailable';"
+    style="margin: 10px; border-radius: 12px;" />
+</a>
+
+<!-- 💻 Top Languages -->
+
+<a href="https://github.com/saddamtkg">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&custom_title=💻%20Most%20Used%20Languages&cache_seconds=7200"
+    alt="Top Languages"
+    height="180"
+    onerror="this.src='https://dummyimage.com/600x180/1a1b27/ffffff&text=Top+Languages+Unavailable';"
+    style="margin: 10px; border-radius: 12px;" />
+</a>
+
+<br />
+
+<!-- 🌟 GitHub Trophies -->
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=saddamtkg&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=-1"
+    alt="GitHub Trophies"
+    width="95%"
+    style="margin: 16px 0; border-radius: 12px;" />
+</a>
+
+<!-- 🔥 GitHub Streak -->
+
+<a href="https://github.com/saddamtkg">
+  <img
+    src="https://streak-stats.demolab.com?user=saddamtkg&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&fire=FF8C00&currStreakNum=00BFFF&currStreakLabel=FF8C00&cache_seconds=7200"
+    alt="GitHub Streak"
+    width="95%"
+    onerror="this.src='https://dummyimage.com/800x180/1a1b27/ffffff&text=GitHub+Streak+Unavailable';"
+    style="margin: 8px 0; border-radius: 12px;" />
+</a>
+
+</div>
+
 ---
 
 ### 🌐 Connect with Me
