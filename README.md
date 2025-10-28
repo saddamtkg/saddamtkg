@@ -110,12 +110,12 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 
 <a href="https://github.com/saddamtkg">
   <img
-    src="https://streak-stats.demolab.com?user=saddamtkg&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&fire=FF8C00&currStreakNum=00BFFF&currStreakLabel=FF8C00&cache_seconds=7200"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=saddamtkg&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&fire=FF8C00&currStreakNum=00BFFF&currStreakLabel=FF8C00&cache_seconds=7200"
     alt="GitHub Streak"
     width="95%"
-    onerror="this.src='https://dummyimage.com/800x180/1a1b27/ffffff&text=GitHub+Streak+Unavailable';"
     style="margin: 8px 0; border-radius: 12px;" />
 </a>
+
 
 </div>
 
