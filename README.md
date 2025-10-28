@@ -70,52 +70,45 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 
 ### 📊 GitHub Performance Overview
 
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top:20px;">
 
-<!-- 🧠 GitHub Stats -->
-
-<a href="https://github.com/saddamtkg">
+<!-- GitHub Stats (replace base URL with your Vercel deployment for max reliability) -->
+<a href="https://github.com/saddamtkg" title="Md Saddam Hossan's GitHub Stats">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&custom_title=🚀%20Md%20Saddam%20Hossan's%20GitHub%20Stats&cache_seconds=7200"
+    src="https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&cache_seconds=7200"
     alt="Md Saddam Hossan's GitHub Stats"
     height="180"
-    onerror="this.src='https://dummyimage.com/600x180/1a1b27/ffffff&text=GitHub+Stats+Unavailable';"
-    style="margin: 10px; border-radius: 12px;" />
+    style="margin:10px;border-radius:12px;" />
 </a>
 
-<!-- 💻 Top Languages -->
-
-<a href="https://github.com/saddamtkg">
+<!-- Top Languages -->
+<a href="https://github.com/saddamtkg" title="Most used languages">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&custom_title=💻%20Most%20Used%20Languages&cache_seconds=7200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=7200"
     alt="Top Languages"
     height="180"
-    onerror="this.src='https://dummyimage.com/600x180/1a1b27/ffffff&text=Top+Languages+Unavailable';"
-    style="margin: 10px; border-radius: 12px;" />
+    style="margin:10px;border-radius:12px;" />
 </a>
 
 <br />
 
-<!-- 🌟 GitHub Trophies -->
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<!-- GitHub Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Trophies">
   <img
     src="https://github-profile-trophy.vercel.app/?username=saddamtkg&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=-1"
     alt="GitHub Trophies"
     width="95%"
-    style="margin: 16px 0; border-radius: 12px;" />
+    style="margin:16px 0;border-radius:12px;" />
 </a>
 
-<!-- 🔥 GitHub Streak -->
-
-<a href="https://github.com/saddamtkg">
+<!-- GitHub Streak: primary (official) and fallback (mirror). Replace with your hosted URL for reliability. -->
+<a href="https://github.com/saddamtkg" title="GitHub Streak">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=saddamtkg&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&fire=FF8C00&currStreakNum=00BFFF&currStreakLabel=FF8C00&cache_seconds=7200"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=saddamtkg&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&fire=FF8C00&currStreakNum=00BFFF&currStreakLabel=FF8C00"
     alt="GitHub Streak"
     width="95%"
-    style="margin: 8px 0; border-radius: 12px;" />
+    style="margin:8px 0;border-radius:12px;" />
 </a>
-
 
 </div>
 
