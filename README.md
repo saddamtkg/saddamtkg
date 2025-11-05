@@ -34,21 +34,40 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 
 ---
 
-# 📊 GitHub Performance & Activity Overview
+<h2 align="center" style="border-bottom:none;margin-bottom:0;">
+📊 GitHub Performance & Activity Overview
+</h2>
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
+<!-- 🧩 GitHub Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400&v=1" 
+  height="165" 
+  alt="GitHub Stats"
+/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&theme=github_dark&hide_border=true" height="165" />
+<!-- 🧠 Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&v=1" 
+  height="165" 
+  alt="Top Languages"
+/>
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=saddamtkg&theme=github-dark-blue&hide_border=true" height="165" />
+<!-- 🔥 GitHub Streak -->
+<img 
+  src="https://streak-stats.demolab.com?user=saddamtkg&theme=github-dark-blue&hide_border=true&cache_seconds=86400&v=1" 
+  height="165" 
+  alt="GitHub Streak"
+/>
 
-<!-- Real GitHub Contribution Graph -->
-<img src="https://ghchart.rshah.org/00FF7F/saddamtkg" width="100%" alt="GitHub Contribution Graph" />
+<!-- 🟩 Real GitHub Contribution Graph -->
+<img 
+  src="https://ghchart.rshah.org/00FF7F/saddamtkg?v=1" 
+  width="100%" 
+  style="object-fit:cover;" 
+  alt="GitHub Contribution Graph"
+/>
 
 </div>
 
