@@ -47,8 +47,8 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 <!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=saddamtkg&theme=github-dark-blue&hide_border=true" height="165" />
 
-<!-- Real GitHub-style Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saddamtkg&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<!-- Real GitHub-style Heatmap Graph -->
+<img src="https://github-contributions-api.deno.dev/saddamtkg.svg" />
 
 </div>
 
