@@ -33,6 +33,14 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 
 ---
 
+## 📊 GitHub Performance Overview
+
+![Md Saddam Hossan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=saddamtkg&theme=dark&hide_border=true)
+
+---
+
 ### 🚀 Featured Projects
 
 #### 🧩 [Synced Slider Pro](https://github.com/saddamtkg/synced-slider-pro)
