@@ -34,7 +34,7 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 
 ---
 
-**📊 GitHub Performance & Activity Overview**
+# 📊 GitHub Performance & Activity Overview
 
 <div align="center">
 
