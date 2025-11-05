@@ -48,16 +48,9 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 <img src="https://streak-stats.demolab.com?user=saddamtkg&theme=github-dark-blue&hide_border=true" height="165" />
 
 <!-- Real GitHub Contribution Graph -->
-<img src="https://github-contributions.vercel.app/api/v1/saddamtkg?show_month_labels=true&show_weekday_labels=true&bg=0d1117&color=58a6ff&block_color=238636&block_empty_color=161b22&border=0d1117" width="100%"/>
+<img src="https://ghchart.rshah.org/58A6FF/saddamtkg" width="100%" height="80%" style="object-fit: cover;" alt="GitHub Contribution Graph" />
 
 </div>
-
----
-
-<p align="center">
-  <b>✅ 88+ contributions in the past year</b><br>
-  <i>Code, commits, and consistency — crafting better WordPress solutions every day.</i>
-</p>
 
 ---
 
