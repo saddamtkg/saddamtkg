@@ -33,11 +33,23 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 
 ---
 
-## 📊 GitHub Performance Overview
+## 📊 GitHub Performance & Activity Overview
 
-![Md Saddam Hossan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&theme=dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=saddamtkg&theme=dark&hide_border=true)
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=9BA3AF" alt="GitHub Stats" height="160px"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&theme=dark&hide_border=true&title_color=58A6FF&text_color=9BA3AF" alt="Top Languages" height="160px"/>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=saddamtkg&theme=dark&hide_border=true&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="160px"/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saddamtkg&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+
+</div>
 
 ---
 
