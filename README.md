@@ -31,6 +31,7 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
 
+
 ---
 
 ## 📊 GitHub Performance & Activity Overview
@@ -38,16 +39,16 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=9BA3AF" alt="GitHub Stats" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&theme=dark&hide_border=true&title_color=58A6FF&text_color=9BA3AF" alt="Top Languages" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&theme=github_dark&hide_border=true" height="165" />
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=saddamtkg&theme=dark&hide_border=true&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="160px"/>
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=saddamtkg&theme=github-dark-blue&hide_border=true" height="165" />
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saddamtkg&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+<!-- Real GitHub-style Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saddamtkg&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -88,52 +89,6 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 >
 > -   Configure popups via dashboard meta boxes
 > -   Integrates with Divi Builder and front-end shortcodes
-
----
-
-### 📊 GitHub Performance Overview
-
-<div align="center" style="margin-top:20px;">
-
-<!-- GitHub Stats (replace base URL with your Vercel deployment for max reliability) -->
-<a href="https://github.com/saddamtkg" title="Md Saddam Hossan's GitHub Stats">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&cache_seconds=7200"
-    alt="Md Saddam Hossan's GitHub Stats"
-    height="180"
-    style="margin:10px;border-radius:12px;" />
-</a>
-
-<!-- Top Languages -->
-<a href="https://github.com/saddamtkg" title="Most used languages">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=7200"
-    alt="Top Languages"
-    height="180"
-    style="margin:10px;border-radius:12px;" />
-</a>
-
-<br />
-
-<!-- GitHub Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Trophies">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=saddamtkg&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=-1"
-    alt="GitHub Trophies"
-    width="95%"
-    style="margin:16px 0;border-radius:12px;" />
-</a>
-
-<!-- GitHub Streak: primary (official) and fallback (mirror). Replace with your hosted URL for reliability. -->
-<a href="https://github.com/saddamtkg" title="GitHub Streak">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=saddamtkg&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&fire=FF8C00&currStreakNum=00BFFF&currStreakLabel=FF8C00"
-    alt="GitHub Streak"
-    width="95%"
-    style="margin:8px 0;border-radius:12px;" />
-</a>
-
-</div>
 
 ---
 
