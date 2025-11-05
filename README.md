@@ -38,20 +38,17 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 
 <div align="center">
 
-<!-- Profile Stats -->
-<a href="https://github.com/saddamtkg">
-  <img src="https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-</a>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
 
 <!-- Top Languages -->
-<a href="https://github.com/saddamtkg">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&theme=github_dark&hide_border=true" height="165" />
 
-<!-- Streak -->
-<a href="https://github.com/saddamtkg">
-  <img src="https://streak-stats.demolab.com?user=saddamtkg&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak" />
-</a>
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=saddamtkg&theme=github-dark-blue&hide_border=true" height="165" />
+
+<!-- Real GitHub-style Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saddamtkg&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
