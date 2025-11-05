@@ -38,19 +38,29 @@ I specialize in developing **custom WordPress plugins**, creating **Divi & Eleme
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
+<!-- Profile Stats -->
+<a href="https://github.com/saddamtkg">
+  <img src="https://github-readme-stats.vercel.app/api?username=saddamtkg&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+</a>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&theme=github_dark&hide_border=true" height="165" />
+<a href="https://github.com/saddamtkg">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamtkg&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+</a>
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=saddamtkg&theme=github-dark-blue&hide_border=true" height="165" />
-
-<!-- Real GitHub-style Heatmap Graph -->
-<img src="https://github-contributions-api.deno.dev/saddamtkg.svg" />
+<!-- Streak -->
+<a href="https://github.com/saddamtkg">
+  <img src="https://streak-stats.demolab.com?user=saddamtkg&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak" />
+</a>
 
 </div>
+
+---
+
+<p align="center">
+  <b>✅ 88+ contributions in the past year</b><br>
+  <i>Code, commits, and consistency — crafting better WordPress solutions every day.</i>
+</p>
 
 ---
 
